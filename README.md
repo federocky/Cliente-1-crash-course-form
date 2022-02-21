@@ -5,7 +5,10 @@
 ---
 
 ### Description
-A very simple HTML CSS JS app to add names and emails to a list and show it on the screen
+A very simple HTML CSS JS app to add names and emails to a list and show it on the screen made following the next great beginers crash course.
+
+Course - [Traversy Media - JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia)
+
 
 
 ## Author Info
